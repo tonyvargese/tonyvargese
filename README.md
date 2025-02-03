@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on [Data Anonymization using ML](https://github.com/tonyvargese/data-anonymisation-differential-privacy)
 
-- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **React , ML**
 
